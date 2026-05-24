@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Aleksandr
-- An DWH/ML engineer from Russia
+- Hi, I’m Aleksandr
+- DWH/ML engineer from Russia
 - Bachelor’s Degree in Computer Science and Engineering from NUST MISIS
 - Use https://t.me/jocelyn_jostar to reach me out
 - Or just call me: **+7 (fuck)-you all**
